@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  color: plum;
 }
 
 
@@ -19,7 +18,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: plum;
 }
 
 .App-link {

@@ -25,6 +25,10 @@
   color: #61dafb;
 }
 
+.body {
+  background-color: plum;
+}
+
 
 
 @keyframes App-logo-spin {
